@@ -1,0 +1,13 @@
+-Oz
+-s DISABLE_EXCEPTION_CATCHING=0
+-v
+-DENABLE_AOT=1
+-DDRIVER_GEN=1
+-DLINK_ICALLS=1
+-DCORE_BINDINGS
+-DGEN_PINVOKE=1
+-emit-llvm
+"-I/Users/akincanaksoy/Projects/BlazorWebassembly_BrotliCompression/BlazorWebassembly_BrotliCompression/obj/Release/net6.0/wasm/for-publish"
+"-I/usr/local/share/dotnet/packs/Microsoft.NETCore.App.Runtime.Mono.browser-wasm/6.0.20/runtimes/browser-wasm/native/include/mono-2.0"
+"-I/usr/local/share/dotnet/packs/Microsoft.NETCore.App.Runtime.Mono.browser-wasm/6.0.20/runtimes/browser-wasm/native/include/wasm"
+-g

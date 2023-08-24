@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  blazorwebassembly_brotlicompression:
+    image: ${DOCKER_REGISTRY-}blazorwebassemblybrotlicompression
+    build:
+      context: .
+      dockerfile: BlazorWebassembly_BrotliCompression/Dockerfile

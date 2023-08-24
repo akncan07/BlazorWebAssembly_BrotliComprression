@@ -1,0 +1,1 @@
+# BlazorWebassembly_BrotliCompression

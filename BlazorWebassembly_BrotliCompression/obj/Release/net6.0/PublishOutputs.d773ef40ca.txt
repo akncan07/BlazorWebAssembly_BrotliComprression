@@ -1,0 +1,4 @@
+/Users/akincanaksoy/Projects/BlazorWebassembly_BrotliCompression/BlazorWebassembly_BrotliCompression/output/output/web.config
+/Users/akincanaksoy/Projects/BlazorWebassembly_BrotliCompression/BlazorWebassembly_BrotliCompression/output/output/wwwroot/sample-data/weather.json
+/Users/akincanaksoy/Projects/BlazorWebassembly_BrotliCompression/BlazorWebassembly_BrotliCompression/output/output/wwwroot/_framework/blazor.boot.json
+/Users/akincanaksoy/Projects/BlazorWebassembly_BrotliCompression/BlazorWebassembly_BrotliCompression/output/web.config

@@ -1,0 +1,1 @@
+/Users/akincanaksoy/Projects/BlazorWebassembly_BrotliCompression/output/web.config
